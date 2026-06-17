@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreya</h1>
-<h3 align="center">Aspiring Software Developer | Web Development Enthusiast | Tech Learner</h3>
+<h3 align="center">Mern stack developer | Tech Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Web+Developer;+%7CJavaScript;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Web+Developer;JavaScript;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -10,9 +10,9 @@
 ## 🚀 About Me
 
 - 🎓 Student passionate about technology
-- 💻 Learning Full Stack Web Development
+- 💻 Learning Mern Stack 
 - 🌱 Currently improving my skills in JavaScript, Node.js and Express.js
-- 🔍 Interested in Software Development and Cyber Security
+- 🔍 Interested in Software Development 
 - ⚡ Love building projects and solving problems
 
 ---

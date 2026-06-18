@@ -18,21 +18,15 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
@@ -63,18 +57,12 @@
 
 <div align="center">
 
-## 🌟 Developer Journey
+### 🚀 Thanks for Visiting My Profile
 
-💡 Learn New Skills <br>
-⚡ Build Real Projects <br>
-🚀 Keep Improving Every Day
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&color=36BCF7&center=true&vCenter=true&width=550&lines=Code.+Create.+Innovate.;Learning+Something+New+Every+Day.;Building+Projects+with+Passion." />
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br>
-
-⭐ Thanks for visiting my profile!
+⭐ Happy Coding!
 
 </div>

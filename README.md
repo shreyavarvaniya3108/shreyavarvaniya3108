@@ -1,36 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A1C4FD,100:C2E9FB&height=220&section=header&text=Hi%20There!%20I'm%20Shreya%20👩‍💻&fontSize=38&fontColor=2D3142&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Solutions&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A1C4FD,50:C2E9FB,100:A1C4FD&height=230&section=header&text=Hi%20There!%20I'm%20Shreya%20👩‍💻&fontSize=38&fontColor=2D3142&animation=fadeIn&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Solutions&descAlignY=56&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=4A6FA5&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;MERN+Stack+Developer;Crafting+Clean+%26+Scalable+Code;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2600&pause=800&color=4A6FA5&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;MERN+Stack+Developer;Crafting+Clean+%26+Scalable+Code;Currently+Mastering+Backend+Dev;Always+Learning+Something+New" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShreyaVarvaniya3108&color=4a6fa5&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/ShreyaVarvaniya3108?label=Followers&style=flat-square&color=4a6fa5)](https://github.com/ShreyaVarvaniya3108)
+![Profile Views](https://komarev.com/ghpvc/?username=ShreyaVarvaniya3108&color=4a6fa5&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/ShreyaVarvaniya3108?label=FOLLOWERS&style=for-the-badge&color=4a6fa5)](https://github.com/ShreyaVarvaniya3108)
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C2E9FB,100:A1C4FD&height=3&width=100%" width="100%"/>
 
-## 💫 About Me
+## 🌸 About Me
 
-```yaml
-name: Shreya Varvaniya
-role: MERN Stack Developer & Student
-focus: Building robust, scalable full-stack applications
-currently_learning: Node.js, Express.js, Advanced Backend Development
-passion: Technology, Innovation & Clean Code
-fun_fact: I turn ☕ into 💻 every single day
-```
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🎓 **Student** — deeply passionate about technology and innovation
-- 💻 **MERN Stack Enthusiast** — building robust full-stack applications
-- 🌱 **Currently Learning** — Node.js, Express.js & Advanced Backend Development
-- ⚡ **Expertise** — crafting seamless user experiences and solid backend logic
-- 🤝 **Open to** — collaborations, internships & exciting dev opportunities
+Hey! I'm **Shreya Varvaniya** — a student and **MERN Stack Developer** who loves turning ideas into clean, working products. I enjoy the full journey of building something: designing the UI, wiring up the backend, and watching it all come together.
 
-<br/>
+I'm currently deep-diving into **advanced backend development**, focusing on writing APIs and systems that don't just work — they scale.
+
+\`\`\`js
+const shreya = {
+  pronouns: "she/her",
+  code: ["JavaScript", "HTML", "CSS"],
+  askMeAbout: ["web dev", "react", "node.js", "mern stack"],
+  technologies: {
+    frontEnd: ["React", "Next.js", "Tailwind", "Bootstrap"],
+    backEnd: ["Node.js", "Express.js", "MongoDB"],
+    tools: ["Git", "GitHub", "Postman", "VS Code", "Figma"],
+  },
+  currentFocus: "Advanced Backend Development 🚀",
+  funFact: "I debug better with chai ☕ than coffee!",
+};
+\`\`\`
+
+</td>
+<td width="40%" valign="top" align="center">
+
+🔭 **Working on:** Full-stack MERN projects
+🌱 **Learning:** Node.js, Express.js, Backend Architecture
+💬 **Ask me about:** React, MongoDB, Web Dev
+📫 **Reach me:** shreyavarvaniya3108@gmail.com
+⚡ **Fun fact:** I turn coffee ☕ into code 💻
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C2E9FB,100:A1C4FD&height=3&width=100%" width="100%"/>
 
 ## 🛠️ Tech Arsenal
 
@@ -38,9 +59,15 @@ fun_fact: I turn ☕ into 💻 every single day
 
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,bootstrap,js,html,css,git,github,vscode,postman,figma&theme=light" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-4A6FA5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express.js-8D99AE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-MongoDB-4A6FA5?style=for-the-badge" />
+
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C2E9FB,100:A1C4FD&height=3&width=100%" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -49,19 +76,19 @@ fun_fact: I turn ☕ into 💻 every single day
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShreyaVarvaniya3108&show_icons=true&theme=graywhite&hide_border=true&bg_color=FFFFFF&icon_color=4A6FA5&text_color=2D3142&title_color=4A6FA5" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaVarvaniya3108&layout=compact&theme=graywhite&hide_border=true&bg_color=FFFFFF&icon_color=4A6FA5&text_color=2D3142&title_color=4A6FA5" />
 
-<br/>
+<br/><br/>
 
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyaVarvaniya3108&theme=default&hide_border=true&background=FFFFFF&ring=4A6FA5&fire=4A6FA5&currStreakNum=2D3142&sideNums=2D3142&currStreakLabel=4A6FA5&sideLabels=2D3142&dates=8D99AE" />
 
 <br/><br/>
 
-<img src="https://github-readme-trophies.vercel.app/?username=ShreyaVarvaniya3108&theme=light_blue&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-readme-trophies.vercel.app/?username=ShreyaVarvaniya3108&theme=light_blue&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C2E9FB,100:A1C4FD&height=3&width=100%" width="100%"/>
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -69,19 +96,24 @@ fun_fact: I turn ☕ into 💻 every single day
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C2E9FB,100:A1C4FD&height=3&width=100%" width="100%"/>
 
-## 🐍 Contribution Snake
+## 📌 Featured Projects
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShreyaVarvaniya3108/ShreyaVarvaniya3108/output/github-contribution-grid-snake.svg" width="95%"/>
+<a href="https://github.com/ShreyaVarvaniya3108/REPO_NAME_1">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreyaVarvaniya3108&repo=REPO_NAME_1&theme=graywhite&hide_border=true&bg_color=FFFFFF&icon_color=4A6FA5&text_color=2D3142&title_color=4A6FA5" />
+</a>
+<a href="https://github.com/ShreyaVarvaniya3108/REPO_NAME_2">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreyaVarvaniya3108&repo=REPO_NAME_2&theme=graywhite&hide_border=true&bg_color=FFFFFF&icon_color=4A6FA5&text_color=2D3142&title_color=4A6FA5" />
+</a>
 
-<sub>⚠️ This animates automatically once the snake-generator GitHub Action is set up on your profile repo (steps below).</sub>
+<sub>⚠️ Replace <code>REPO_NAME_1</code> and <code>REPO_NAME_2</code> above with your actual repository names so these cards load correctly.</sub>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C2E9FB,100:A1C4FD&height=3&width=100%" width="100%"/>
 
 ## 🤝 Connect With Me
 

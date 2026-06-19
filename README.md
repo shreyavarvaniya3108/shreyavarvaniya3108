@@ -1,124 +1,115 @@
-<h1 align="center">
-  Hi 👋, I'm Shreya Varvaniya
-</h1>
+<h1 align="center">Hi 👋 I'm Shreya Varvaniya</h1>
 
-<h3 align="center">
-🚀 MERN Stack Developer | Passionate Tech Learner
-</h3>
+<h3 align="center">🚀 MERN Stack Developer | Tech Learner | Building Real Projects</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Full+Stack+Projects;Learning+Every+Day;Turning+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;MERN+Stack+Developer;Building+Full+Stack+Projects;Learning+Every+Day;Turning+Ideas+Into+Reality" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ShreyaVarvaniya3108&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ShreyaVarvaniya3108&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🌸 About Me
 
-💻 MERN Stack Developer in Progress
+💻 Passionate about Web Development
 
-🎯 Currently Building Real World Projects
+🚀 Learning and Building with the MERN Stack
 
-🌱 Learning Backend Development
+🌱 Currently exploring Backend Development
 
-🚀 Exploring APIs, Authentication & Deployment
+⚡ Turning ideas into real-world projects
 
-⚡ Goal: Become a Professional Full Stack Developer
+🎯 Goal: Become a Professional Full Stack Developer
 
 ---
 
-## 🛠 Tech Stack
+## 🎯 Current Mission
+
+✅ Master Node.js & Express.js
+
+✅ Build 10+ Real World Projects
+
+✅ Learn MongoDB & Authentication
+
+✅ Improve Problem Solving Skills
+
+🔄 Looking for MERN Stack Internship Opportunities
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,vscode" />
-
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Developer Journey
+
+📖 Started with HTML & CSS
+
+⚡ Learned JavaScript Fundamentals
+
+🎨 Built Responsive Websites
+
+⚛️ Started Learning React
+
+🔥 Exploring Node.js & Express.js
+
+🎯 Working Towards Full Stack Development
+
+---
+
+## 📂 Featured Projects
 
 ### ✈️ AI Travel Planner
-Smart travel planning using AI assistance.
+AI-powered travel planning application designed to create personalized travel experiences.
 
 ### 🌐 Portfolio Website
-Responsive personal portfolio website.
+A modern responsive portfolio showcasing projects, skills, and achievements.
 
 ### 🛒 E-Commerce Website
-Modern shopping website with responsive UI.
+A complete shopping platform with responsive design and user-friendly interface.
 
 ---
 
-## 🏆 GitHub Trophies
+## 📌 This Week's Focus
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShreyaVarvaniya3108&theme=tokyonight&row=1&column=6"/>
-</p>
+🟢 Node.js
 
----
+🟢 Express.js
 
-## 📊 GitHub Stats
+🟢 REST APIs
 
-<p align="center">
+🟢 Backend Development
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShreyaVarvaniya3108&show_icons=true&theme=tokyonight"/>
+🟡 MongoDB
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaVarvaniya3108&layout=compact&theme=tokyonight"/>
-
-</p>
+🔜 Authentication & JWT
 
 ---
 
-## 🔥 GitHub Streak
+## ☕ Fun Facts
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ShreyaVarvaniya3108&theme=tokyonight"/>
-</p>
+💻 I enjoy building projects more than watching tutorials
 
----
+🎧 Coding with music keeps me focused
 
-## 📈 Contribution Graph
+🚀 I believe every project teaches something valuable
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyaVarvaniya3108&theme=tokyo-night"/>
-</p>
+🌙 Late-night coding sessions are my favorite
 
 ---
 
-## 💭 Developer Quote
+## 💭 Developer Mindset
 
-<p align="center">
-
-"Every line of code is a step closer to becoming the developer I aspire to be."
-
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Thanks+for+Visiting+My+Profile!;Keep+Learning+Keep+Building!;Happy+Coding+🚀" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+```javascript
+while (!success) {
+    learn();
+    build();
+    improve();
+}

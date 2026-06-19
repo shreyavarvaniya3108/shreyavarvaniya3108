@@ -1,55 +1,136 @@
-<h1 align="center">Hi 👋, I'm Shreya Varvaniya</h1>
+<div align="center">
+
+```bash
+> booting developer profile...
+
+[████████████████████] 100%
+
+✓ Name        : Shreya Varvaniya
+✓ Role        : MERN Stack Developer
+✓ Status      : Building Real Projects
+✓ Learning    : Node.js | Express.js | MongoDB
+✓ Mission     : Full Stack Developer
+✓ Version     : 2026.1
+
+System Ready 🚀
+```
+
+</div>
+
+<h1 align="center">SHREYA VARVANIYA</h1>
 
 <h3 align="center">
-MERN Stack Developer • Building Full Stack Projects • Continuous Learner
+MERN Stack Developer • Problem Solver • Continuous Learner
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Turning+Ideas+Into+Web+Applications;Learning+MERN+Stack+Development;Building+Projects+One+Step+at+a+Time" />
-</p>
+---
+
+## 👩‍💻 Developer Profile
+
+```yaml
+name: Shreya Varvaniya
+
+role: MERN Stack Developer
+
+currently_learning:
+  - Node.js
+  - Express.js
+  - MongoDB
+
+building:
+  - AI Travel Planner
+  - Portfolio Website
+  - E-Commerce Website
+
+goal:
+  - Become a Full Stack Developer
+  - Contribute to Real World Projects
+  - Secure a MERN Internship
+```
 
 ---
 
-## 🚀 About Me
-
-- 💻 MERN Stack Developer in Progress
-- 🌱 Currently learning Backend Development with Node.js & Express.js
-- 🎯 Focused on building practical, real-world projects
-- ⚡ Passionate about clean UI and problem-solving
-- 🚀 Looking for opportunities to grow as a Full Stack Developer
-
----
-
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,vscode" />
+
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 ### ✈️ AI Travel Planner
-AI-powered travel planning platform with personalized trip suggestions.
+
+AI-powered travel planning application that helps users generate personalized travel experiences.
 
 ### 🌐 Portfolio Website
-Responsive portfolio website showcasing projects and skills.
+
+Modern responsive portfolio showcasing skills and projects.
 
 ### 🛒 E-Commerce Website
-Modern shopping platform built with responsive design principles.
+
+Responsive shopping platform built using modern web technologies.
 
 ---
 
-## 💡 What I'm Learning
+## 🎯 Current Mission
 
-```txt
-Frontend   ██████████ 90%
+```text
+[✓] Frontend Development
 
-React      ████████░░ 80%
+[✓] React Fundamentals
 
-Node.js    ███████░░░ 70%
+[✓] REST APIs
 
-Express.js ███████░░░ 70%
+[⏳] Backend Development
 
-MongoDB    ██████░░░░ 60%
+[⏳] MongoDB
+
+[⏳] Authentication & JWT
+
+[🎯] Full Stack Development
+```
+
+---
+
+## ☕ Developer Facts
+
+- Love building projects from scratch
+- Believe in learning by doing
+- Always exploring new technologies
+- Turning ideas into web applications
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/ShreyaVarvaniya3108">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💭 Developer Philosophy
+
+> "Great developers are not born by watching tutorials. They are built by creating projects."
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>

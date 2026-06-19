@@ -33,7 +33,7 @@ Mission     : Build scalable, clean web apps
 Open To     : Internships & Collaborations 🚀
 \`\`\`
 
-I'm a student and MERN Stack developer who enjoys building things end to end — from designing a clean UI to wiring up a solid backend. Right now I'm deep in **advanced backend development**, learning how to design APIs and systems that actually scale.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=16&duration=3200&pause=900&color=2D3142&center=false&vCenter=true&width=480&height=70&lines=Student+%26+MERN+Stack+Developer+%F0%9F%92%BB;Turning+ideas+into+clean%2C+scalable+web+apps;Currently+leveling+up+my+backend+skills+%F0%9F%9A%80" alt="Bio Typing" />
 
 </td>
 <td width="45%" valign="top" align="center">

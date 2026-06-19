@@ -1,46 +1,26 @@
-<h1 align="center">Hi 👋 I'm Shreya Varvaniya</h1>
+<h1 align="center">Hi 👋, I'm Shreya Varvaniya</h1>
 
-<h3 align="center">🚀 MERN Stack Developer | Tech Learner | Building Real Projects</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;MERN+Stack+Developer;Building+Full+Stack+Projects;Learning+Every+Day;Turning+Ideas+Into+Reality" />
-</p>
+<h3 align="center">
+MERN Stack Developer • Building Full Stack Projects • Continuous Learner
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShreyaVarvaniya3108&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Turning+Ideas+Into+Web+Applications;Learning+MERN+Stack+Development;Building+Projects+One+Step+at+a+Time" />
 </p>
 
 ---
 
-## 🌸 About Me
+## 🚀 About Me
 
-💻 Passionate about Web Development
-
-🚀 Learning and Building with the MERN Stack
-
-🌱 Currently exploring Backend Development
-
-⚡ Turning ideas into real-world projects
-
-🎯 Goal: Become a Professional Full Stack Developer
+- 💻 MERN Stack Developer in Progress
+- 🌱 Currently learning Backend Development with Node.js & Express.js
+- 🎯 Focused on building practical, real-world projects
+- ⚡ Passionate about clean UI and problem-solving
+- 🚀 Looking for opportunities to grow as a Full Stack Developer
 
 ---
 
-## 🎯 Current Mission
-
-✅ Master Node.js & Express.js
-
-✅ Build 10+ Real World Projects
-
-✅ Learn MongoDB & Authentication
-
-✅ Improve Problem Solving Skills
-
-🔄 Looking for MERN Stack Internship Opportunities
-
----
-
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,vscode" />
@@ -48,68 +28,28 @@
 
 ---
 
-## 🚀 My Developer Journey
-
-📖 Started with HTML & CSS
-
-⚡ Learned JavaScript Fundamentals
-
-🎨 Built Responsive Websites
-
-⚛️ Started Learning React
-
-🔥 Exploring Node.js & Express.js
-
-🎯 Working Towards Full Stack Development
-
----
-
-## 📂 Featured Projects
+## 🌟 Featured Projects
 
 ### ✈️ AI Travel Planner
-AI-powered travel planning application designed to create personalized travel experiences.
+AI-powered travel planning platform with personalized trip suggestions.
 
 ### 🌐 Portfolio Website
-A modern responsive portfolio showcasing projects, skills, and achievements.
+Responsive portfolio website showcasing projects and skills.
 
 ### 🛒 E-Commerce Website
-A complete shopping platform with responsive design and user-friendly interface.
+Modern shopping platform built with responsive design principles.
 
 ---
 
-## 📌 This Week's Focus
+## 💡 What I'm Learning
 
-🟢 Node.js
+```txt
+Frontend   ██████████ 90%
 
-🟢 Express.js
+React      ████████░░ 80%
 
-🟢 REST APIs
+Node.js    ███████░░░ 70%
 
-🟢 Backend Development
+Express.js ███████░░░ 70%
 
-🟡 MongoDB
-
-🔜 Authentication & JWT
-
----
-
-## ☕ Fun Facts
-
-💻 I enjoy building projects more than watching tutorials
-
-🎧 Coding with music keeps me focused
-
-🚀 I believe every project teaches something valuable
-
-🌙 Late-night coding sessions are my favorite
-
----
-
-## 💭 Developer Mindset
-
-```javascript
-while (!success) {
-    learn();
-    build();
-    improve();
-}
+MongoDB    ██████░░░░ 60%

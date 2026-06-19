@@ -17,35 +17,28 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-Hey! I'm **Shreya Varvaniya** — a student and **MERN Stack Developer** who loves turning ideas into clean, working products. I enjoy the full journey of building something: designing the UI, wiring up the backend, and watching it all come together.
-
-I'm currently deep-diving into **advanced backend development**, focusing on writing APIs and systems that don't just work — they scale.
-
-\`\`\`js
-const shreya = {
-  pronouns: "she/her",
-  code: ["JavaScript", "HTML", "CSS"],
-  askMeAbout: ["web dev", "react", "node.js", "mern stack"],
-  technologies: {
-    frontEnd: ["React", "Next.js", "Tailwind", "Bootstrap"],
-    backEnd: ["Node.js", "Express.js", "MongoDB"],
-    tools: ["Git", "GitHub", "Postman", "VS Code", "Figma"],
-  },
-  currentFocus: "Advanced Backend Development 🚀",
-  funFact: "I debug better with chai ☕ than coffee!",
-};
+\`\`\`
+shreya@github ~ %
+─────────────────────────────
+Name        : Shreya Varvaniya
+Role        : MERN Stack Developer
+Status      : Student | Always Learning
+Stack       : React · Node.js · Express · MongoDB
+Focus       : Advanced Backend Development
+Editor      : VS Code
+Fuel        : Chai ☕ > Coffee
+Mission     : Build scalable, clean web apps
+Open To     : Internships & Collaborations 🚀
 \`\`\`
 
-</td>
-<td width="40%" valign="top" align="center">
+I'm a student and MERN Stack developer who enjoys building things end to end — from designing a clean UI to wiring up a solid backend. Right now I'm deep in **advanced backend development**, learning how to design APIs and systems that actually scale.
 
-🔭 **Working on:** Full-stack MERN projects
-🌱 **Learning:** Node.js, Express.js, Backend Architecture
-💬 **Ask me about:** React, MongoDB, Web Dev
-📫 **Reach me:** shreyavarvaniya3108@gmail.com
-⚡ **Fun fact:** I turn coffee ☕ into code 💻
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=700&color=2D3142&center=true&vCenter=true&width=400&height=240&lines=%F0%9F%8E%93+CS+Student;%F0%9F%92%BB+MERN+Stack+Developer;%F0%9F%8C%B1+Learning+Node.js+%26+Express;%E2%9A%A1+Loves+Clean+UI%2FUX;%F0%9F%9A%80+Open+to+Collaborations;%E2%98%95+Powered+by+Chai" alt="About Typing" />
 
 </td>
 </tr>
@@ -93,23 +86,6 @@ const shreya = {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyaVarvaniya3108&theme=minimal&hide_border=true&bg_color=FFFFFF&color=4A6FA5&line=4A6FA5&point=2D3142" width="95%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C2E9FB,100:A1C4FD&height=3&width=100%" width="100%"/>
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ShreyaVarvaniya3108/REPO_NAME_1">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreyaVarvaniya3108&repo=REPO_NAME_1&theme=graywhite&hide_border=true&bg_color=FFFFFF&icon_color=4A6FA5&text_color=2D3142&title_color=4A6FA5" />
-</a>
-<a href="https://github.com/ShreyaVarvaniya3108/REPO_NAME_2">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreyaVarvaniya3108&repo=REPO_NAME_2&theme=graywhite&hide_border=true&bg_color=FFFFFF&icon_color=4A6FA5&text_color=2D3142&title_color=4A6FA5" />
-</a>
-
-<sub>⚠️ Replace <code>REPO_NAME_1</code> and <code>REPO_NAME_2</code> above with your actual repository names so these cards load correctly.</sub>
 
 </div>
 
